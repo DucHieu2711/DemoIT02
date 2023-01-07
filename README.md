@@ -1,2 +1,0 @@
-# DemoIT02
-DemoDH20IT02
